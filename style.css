@@ -1,0 +1,31 @@
+body{
+    background-color: #EEEEEE;
+}
+
+H1{
+    text-align: center;
+}
+
+.preparation{
+    font-style: italic;
+    color: red;
+    font-size: 10px;
+    
+}
+
+img{
+    width:200px;
+    height:200px;
+    border-radius: 5px;
+    
+}
+
+.bleu{
+    color: blue;
+    font-weight: bold;
+}
+
+p{
+    font-weight: bold;
+}
+
